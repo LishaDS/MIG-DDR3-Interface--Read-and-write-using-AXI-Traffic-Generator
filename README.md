@@ -1,0 +1,2 @@
+# MIG-DDR3-Interface--Read-and-write-using-AXI-Traffic-Generator
+The MIG DDR3 interface enables communication between FPGA logic and external DDR3 memory. Using an AXI Traffic Generator, read and write operations are automatically generated through the AXI protocol, allowing verification of memory access, data integrity, and bandwidth performance of the DDR3 controller implemented by the MIG core.
